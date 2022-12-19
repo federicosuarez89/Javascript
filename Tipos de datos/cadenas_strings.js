@@ -12,5 +12,7 @@ console.log(fullName);
 //Eliminar los espacios al inicio y al final de una cadena
 console.log("Ahora la misma cadena pero sin espacios:"+fullName.trim());
 //Convertir una cadena a un arreglo
-
 console.log(text.split());
+//Interpolacion de cadenas
+let sayHi = `Hola mi nombre es ${myName},saludos a todos`;
+console.log(sayHi);
