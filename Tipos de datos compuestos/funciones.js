@@ -28,7 +28,7 @@ function sayHi(nombre, edad){
     console.log(`Hola mi nombre es ${nombre} y tengo ${edad} años`);
 }
 
-//Funciones anonimas
+//Funciones anonimas(expresadas)
 const funcionAnonima = function(){
     console.log("Esto es una funcion expresada");
 }
