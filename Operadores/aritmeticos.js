@@ -4,10 +4,15 @@
     multiplicacion(*) 
     division(/)
     modulo(%) devuelve el resto de una division
-    incremento(++)
-    decremento(--)
-    
+    Postincremento(a++)
+    Preincremento(++a)
+    Predecremento(--a)
+    Postdecremento(a--)
+*/
 
+/*
+    Precedencia de operadores
+    ()    ^    * /   + -   %   = < > <= >=   Not   Y   Or
 */
 
 let a = 5;
