@@ -8,3 +8,4 @@ do{
     console.log("Valor del contador: "+contador);
     contador++;
 }while(contador<6);
+console.log("Fin del ciclo");
