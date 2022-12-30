@@ -27,9 +27,9 @@ console.log(b[3][2]);
 
 //Averiguamos la longitud del arreglo
 console.log(b.length);
-//Agragamos nuevos elementos
+//Agregamos nuevos elementos al final del arreglo
 f.push("amarillo")
 console.log(f);
-//Eliminamos el ultimo elemento
+//Eliminamos el ultimo elemento del arreglo
 f.pop();
 console.log(f);
